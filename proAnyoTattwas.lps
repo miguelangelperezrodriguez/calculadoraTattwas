@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="proAnyoTattwas.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="54" Y="18"/>
+        <UsageCount Value="104"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitanyotattwas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitAnyoTattwas"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="64"/>
+        <CursorPos X="28" Y="74"/>
+        <UsageCount Value="104"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uanyotattwas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="269"/>
+        <CursorPos X="51" Y="281"/>
+        <UsageCount Value="104"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="192" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="194" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="166" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="169" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="197" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="201" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="219" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="282" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="223" TopLine="209"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="225" TopLine="209"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="281" TopLine="258"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="282" TopLine="258"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="222" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="223" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="uanyotattwas.pas"/>
+        <Caret Line="222" Column="22" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="30" Column="34" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="31" Column="34" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="32" Column="34" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="33" Column="34" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="58" Column="29" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="56" Column="73" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="57" Column="73" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="63" Column="99" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="75" Column="91" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="84" Column="30" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="78" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="93" Column="58" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="87" Column="49" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="82" Column="5" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="unitanyotattwas.pas"/>
+        <Caret Line="69" Column="3" TopLine="64"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
